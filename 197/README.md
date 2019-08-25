@@ -1,0 +1,1 @@
+用到一个`DATEDIFF`来比较两个`datetime`类型的变量的差值。
